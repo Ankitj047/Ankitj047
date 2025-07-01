@@ -12,7 +12,7 @@
 </a>
     &nbsp;&nbsp;
   <a href="tel:+919636268809">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/phone.svg" alt="Phone" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Phone_font_awesome.svg" alt="Phone" height="30" width="40" />
   </a>
 </p>
 
