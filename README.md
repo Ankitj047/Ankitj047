@@ -1,7 +1,7 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Ankit Jain</h1>
 
 - 🔭 I work extensively on the React ecosystem
-- 🌱 Currently working as an Sr. Software Developer @ifourtechnolab
+- 🌱 Currently working as an Sr. Software Developer @NinjaTech
 - 🤔 Always on the lookout for new ideas to develop
 - 📫 How to reach me **ankitj047@gmail.com**
 
