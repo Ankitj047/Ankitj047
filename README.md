@@ -10,6 +10,10 @@
 <p align="left"><a href="https://www.linkedin.com/in/ankit-jain-0705a1110" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
+    &nbsp;&nbsp;
+  <a href="tel:+919636268809">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/phone.svg" alt="Phone" height="30" width="40" />
+  </a>
 </p>
 
 ## Tech stack
